@@ -19,3 +19,5 @@ libjim.a
 configure.gnu
 jimsh0
 build-jim-ext
+jimtcl.pc
+tests/Makefile
